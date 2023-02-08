@@ -1,8 +1,8 @@
-Для работы программы необходимо закинуть в папку предварительно обученную модель YOLOv3 - yolov3.pt (подробнее в документации): https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/
+Для работы программы необходимо закинуть в папку models предварительно обученную модель (подробнее в документации).
 
 ## Структура файлов
 ![This is an image](https://i.imgur.com/WGkm0Dz.jpeg)
 
-# Документация 
+# Документация
 Detection Classes: https://imageai.readthedocs.io/en/latest/detection/index.html
 Video and Live-Feed Detection and Analysis: https://imageai.readthedocs.io/en/latest/video/index.html
