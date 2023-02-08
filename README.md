@@ -5,5 +5,4 @@
 
 # Документация 
 Detection Classes: https://imageai.readthedocs.io/en/latest/detection/index.html
-
 Video and Live-Feed Detection and Analysis: https://imageai.readthedocs.io/en/latest/video/index.html
