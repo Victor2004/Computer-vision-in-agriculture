@@ -1,7 +1,7 @@
 Для работы программы необходимо закинуть в папку models предварительно обученную модель (подробнее в документации).
 
 ## Структура файлов 
-![This is an image](https://i.imgur.com/WGkm0Dz.jpeg)
+![This is an image](https://i.imgur.com/TqrqwOi.jpeg)
 
 # Документация 
 Detection Classes: https://imageai.readthedocs.io/en/latest/detection/index.html
