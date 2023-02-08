@@ -1,6 +1,6 @@
 Для работы программы необходимо закинуть в папку предварительно обученную модель YOLOv3 - yolov3.pt (подробнее в документации): https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/
 
-##Структура файлов
+## Структура файлов
 ![This is an image](https://i.imgur.com/WGkm0Dz.jpeg)
 
 # Документация 
