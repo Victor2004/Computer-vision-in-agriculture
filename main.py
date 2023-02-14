@@ -3,8 +3,7 @@ import os
 
 filename = 5
 
-execution_path = os.getcwd()
-
+# execution_path = os.getcwd()
 detector = ObjectDetection()
 # detector.setModelTypeAsYOLOv3()
 # detector.setModelPath(os.path.join(execution_path , "models/yolov3.pt"))
